@@ -28,6 +28,7 @@ iter 5000: loss 1.2122, time 30964.94ms, mfu 4.05%
 ```
 
 Relevant papers: 
+
 https://arxiv.org/abs/2410.04870 On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent
 
 
